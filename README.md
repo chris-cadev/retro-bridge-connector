@@ -30,7 +30,7 @@ the command from the root directory in order to install the dependencies in the
 `assets` directory.
 
 ```sh
-npm install --prefix assets
+yarn --cwd assets install
 ```
 
 3. Create the database.
