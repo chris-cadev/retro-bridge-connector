@@ -13,10 +13,10 @@
 </script>
 
 <div class="max-w-md mx-auto px-4 md:p-0">
-  <h1 class="text-5xl font-black my-5">Local-First LiveView Svelte ToDo App</h1>
+  <h1 class="text-5xl font-black my-5">Retro Bridge Connector</h1>
 
   <p>
-    This to-do app is a demo of an installable
+    This <strong>web text editor</strong> app is a demo of an installable
     <Link href="https://www.phoenixframework.org/" external>Phoenix</Link>
     Progressive Web App (<Link
       href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"
@@ -31,7 +31,7 @@
 
   <iframe
     class="w-full aspect-video my-6"
-    src="https://www.youtube.com/embed/PX9-lq0LL9Q?si=xdd3inTC72OvVV0G"
+    src="https://www.youtube.com/embed/E5tPpm_LbNM?si=GFAVNser0C0_4tNP"
     title="YouTube video player"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -126,15 +126,15 @@
     <h2 class="text-3xl font-bold my-3">Contact</h2>
 
     Created by
-    <Link href="https://tonydang.com" external>Tony Dang</Link>. Please feel free send any questions
-    or feedback to
-    <Link href="mailto:tony@tonydang.com" external>tony@tonydang.com</Link>.
+    <Link href="mailto:chris.ca.dev@gmail.com" external>Christian Camacho</Link>. Please feel free
+    send any questions or feedback to
+    <Link href="mailto:chris.ca.dev@gmail.com" external>chris.ca.dev@gmail.com</Link>.
   </div>
 
   <div class="my-6">
     <h2 class="text-3xl font-bold my-3">Source Code</h2>
     <a
-      href="https://github.com/thisistonydang/liveview-svelte-pwa"
+      href="https://github.com/chris-cadev/retro-bridge-connector"
       aria-label="Github"
       target="_blank"
       rel="noopener noreferrer"

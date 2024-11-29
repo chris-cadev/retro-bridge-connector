@@ -26,24 +26,24 @@ defmodule LiveViewSvelteOfflineDemoWeb.CustomComponents do
         <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
-        <meta name="apple-mobile-web-app-title" content="ToDo" />
-        <meta name="application-name" content="ToDo" />
+        <meta name="apple-mobile-web-app-title" content="RBC" />
+        <meta name="application-name" content="RBC" />
         <meta name="msapplication-TileColor" content="#00aba9" />
         <meta name="theme-color" content="#1d232a" />
         <!-- End Favicons -->
         <meta name="csrf-token" content={Phoenix.Controller.get_csrf_token()} />
-        <.live_title>ToDo</.live_title>
-        <meta name="description" content="Local-First LiveView Svelte ToDo App" />
+        <.live_title>RBC</.live_title>
+        <meta name="description" content="Local-First LiveView Svelte RBC App" />
         <!-- Open Graph -->
-        <meta property="og:title" content="ToDo" />
+        <meta property="og:title" content="RBC" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://liveview-svelte-pwa.fly.dev" />
-        <meta property="og:description" content="Local-First LiveView Svelte ToDo App" />
+        <meta property="og:description" content="Local-First LiveView Svelte RBC App" />
         <meta property="og:locale" content="en_US" />
-        <meta property="og:site_name" content="ToDo" />
+        <meta property="og:site_name" content="RBC" />
         <meta property="og:image" content="https://liveview-svelte-pwa.fly.dev/og.png" />
         <meta property="og:image:url" content="https://liveview-svelte-pwa.fly.dev/og.png" />
-        <meta property="og:image:alt" content="ToDo app logo" />
+        <meta property="og:image:alt" content="RBC app logo" />
         <!-- End Open Graph -->
         <link phx-track-static rel="stylesheet" href={~p"/assets/app.css"} />
         <script defer phx-track-static type="text/javascript" src={~p"/assets/app.js"}>

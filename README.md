@@ -1,18 +1,7 @@
-# Local-First LiveView Svelte ToDo App
+# Retro Bridge Connector
 
-This to-do app is a demo of an installable [Phoenix](https://www.phoenixframework.org/) 
-Progressive Web App ([PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)) 
-that can sync real-time across multiple devices while also being able to work locally offline.
-
-https://github.com/tonydangblog/liveview-svelte-pwa/assets/63323230/726487b0-926d-4f5d-b54a-e93dcdd9dc6a
-
-## Detailed Video Walkthrough
-
-[![Working in Elevators: How to build an offline-enabled, real-time todo app w/ LiveView, Svelte, & Yjs](https://img.youtube.com/vi/PX9-lq0LL9Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=PX9-lq0LL9Q)
-
-## Live Demo
-
-A live demo of the app can be found [here](https://liveview-svelte-pwa.fly.dev/).
+This web text editor app is [Phoenix](https://www.phoenixframework.org/) 
+Progressive Web App ([PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)). Focused on connect the dots to bridge from knowledge base to knowledge base across the world, language, and mind state.
 
 ## Running Locally
 
@@ -21,7 +10,6 @@ You can run this app locally by following the steps below after cloning the repo
 1. Install the Phoenix dependencies.
 
 ```sh
-
 mix deps.get
 ```
 
@@ -83,11 +71,12 @@ fly launch
 
 ## Inspired By
 
-- Wout De Puysseleir - [LiveSvelte - Render Svelte directly into Phoenix LiveView with E2E reactivity.](https://www.youtube.com/watch?v=JMkvbW35QvA)
-- Ryan Cooke - [Ryan Cooke - E2E Reactivity - using Svelte with Phoenix LiveView](https://www.youtube.com/watch?v=asm2TTm035o)
-- Daniils Petrovs - [SvelteKit: From landing page to offline PWAs](https://speakerdeck.com/danirukun/svelte-hololive-fan-booth-project)
+- [Tony Dang](https://tonydang.com) - [Working in Elevators: How to build an offline-enabled, real-time todo app w/ LiveView, Svelte, & Yjs](https://www.youtube.com/watch?v=PX9-lq0LL9Q)
 
 ## Contact
 
-Created by [Tony Dang](https://tonydang.com). Please feel free send any questions or feedback to
-[tony@tonydang.com](mailto:tony@tonydang.com).
+Code modified by [Christian Camacho](mailto:chris.ca.dev@gmail.com)
+
+---
+
+Forked from [Tony Dang](https://tonydang.com) project [liveview-svelte-pwa](https://github.com/thisistonydang/liveview-svelte-pwa).
